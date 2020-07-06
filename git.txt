@@ -1,5 +1,5 @@
-Git is a version control system which enables you to track changes to files/
-There is no additional software or applications required except Git itself
+Git is a version control system which enables you to track changes to files
+
 
 
 
