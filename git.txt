@@ -1,5 +1,7 @@
 Git is a version control system which enables you to track changes to files
 
+git is a distribuuted version control system
+
 
 
 
